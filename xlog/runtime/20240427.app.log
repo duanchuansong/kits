@@ -1,0 +1,10 @@
+{"level":"info","ts":"2024-04-27T22:01:08.744+0800","caller":"xlog/log_test.go:8","msg":"Testing Info function"}
+{"level":"info","ts":"2024-04-27T22:01:21.524+0800","caller":"xlog/log_test.go:8","msg":"Testing Info function"}
+{"level":"info","ts":"2024-04-27T22:01:21.524+0800","caller":"xlog/log_test.go:14","msg":"Testing Infof function with template: test"}
+{"level":"info","ts":"2024-04-27T22:01:21.524+0800","caller":"xlog/log_test.go:19","msg":"Testing Infow function with key-value pairs"}
+{"level":"warn","ts":"2024-04-27T22:01:21.524+0800","caller":"xlog/log_test.go:23","msg":"Testing Warn function"}
+{"level":"info","ts":"2024-04-27T22:01:21.524+0800","caller":"xlog/log_test.go:28","msg":"Testing Warnf function with template: test"}
+{"level":"debug","ts":"2024-04-27T22:01:21.524+0800","caller":"xlog/log_test.go:33","msg":"Testing Debug function"}
+{"level":"debug","ts":"2024-04-27T22:01:21.524+0800","caller":"xlog/log_test.go:38","msg":"Testing Debugf function with template: test"}
+{"level":"error","ts":"2024-04-27T22:01:21.524+0800","caller":"xlog/log_test.go:43","msg":"Testing Error function"}
+{"level":"error","ts":"2024-04-27T22:01:21.524+0800","caller":"xlog/log_test.go:48","msg":"Testing Errorf function with template: test"}
